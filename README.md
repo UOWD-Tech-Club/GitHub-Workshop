@@ -1,2 +1,2 @@
 # GitHub-Workshop
-GitHub Workshop Jan 15, 2023
+GitHub Workshop Jan 15, 2023.
