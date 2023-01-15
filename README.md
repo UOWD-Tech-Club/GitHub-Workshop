@@ -17,8 +17,8 @@ This repository is for a workshop that will teach you the basics of using GitHub
 8. Introduction to open source contributions
 
 ## Materials
-Slides and code examples will be provided during the workshop.
-You can also follow along with the GitHub Guides
+- Code examples will be provided during the workshop.
+- You can also follow along with the [GitHub Guides](https://docs.github.com/en)
 
 ## Contact
 If you have any questions or issues, please reach out to the workshop organizer or the project maintainers.
