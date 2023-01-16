@@ -1,6 +1,6 @@
 # Welcome to the GitHub Workshop Repo
 ## _**Workshop conduted on Jan 15, 2023**_
-This repository is for a workshop that will teach you the basics of using GitHub and how to contribute to open source projects.
+This repository is for a workshop that will teach you the basics of using GitHub and how to contribute to open source projects :).
 
 ### Prerequisites
 - Basic knowledge of using a command line interface
