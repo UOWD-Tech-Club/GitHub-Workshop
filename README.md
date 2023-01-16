@@ -24,3 +24,5 @@ This repository is for a workshop that will teach you the basics of using GitHub
 If you have any questions or issues, please reach out to the workshop organizer or the project maintainers.
 
 **Happy coding!**
+
+...
